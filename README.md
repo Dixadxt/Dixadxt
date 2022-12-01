@@ -20,9 +20,9 @@
 
 - 🌐   HTML | CSS | JavaScript
 
-- 🐍   Machine Learning | Python | OpenCV
+- 🐍   Python | OpenCV
 
-- 🔧   Visual Studio code | Intellij IDEA | Android Studio
+- 🔧   Visual Studio code | Intellij IDEA 
 
 
                                                                                     
