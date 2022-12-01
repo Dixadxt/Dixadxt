@@ -1,7 +1,7 @@
 #
 <h1 align="center">Hey👋,I'm Diksha!</h1>
 <h4 align="center">I'm a currently enrolled as a Student pursuing my Batchelor's degree in Information Technology.</h4>
-<img align="right" alt="coding" width="160" src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
+
 
 - 🔭 I’m working on my second year project.
 
