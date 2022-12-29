@@ -20,7 +20,7 @@
 
 - 🌐   HTML | CSS | JavaScript
 
-- 🐍   Python | OpenCV
+- 🐍   Python
 
 - 🔧   Visual Studio code | Intellij IDEA 
 
