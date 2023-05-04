@@ -1,6 +1,6 @@
 #
 <h1 align="center">Hey👋,I'm Diksha!</h1>
-<h4 align="center">I'm a currently enrolled as a Student pursuing my Batchelor's degree in Information Technology.</h4>
+<h4 align="center">I'm a currently enrolled as a Student pursuing my Bachelor's degree in Information Technology.</h4>
 
 
 - 🔭 I’m working on my second year project.
