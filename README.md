@@ -16,7 +16,7 @@
     
 🛠 TECH STACK
                                                                                    
-- 💻   Java | C
+- 💻   Java | C | SpringBoot | Mysql
 
 - 🌐   HTML | CSS | JavaScript
 
