@@ -3,7 +3,7 @@
 <h4 align="center">I'm a currently enrolled as a Student pursuing my Bachelor's degree in Information Technology.</h4>
 
 
-- 🔭 I’m working on my second year project.
+- 🔭 I’m working on my final year project.
 
 - 🌱 I’m on track for learning more about Java, Web Development and Data-Structures_n_Algorithms. 
 
