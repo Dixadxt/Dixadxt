@@ -18,7 +18,7 @@
                                                                                    
 - 💻   Java | C | SpringBoot | Mysql
 
-- 🌐   HTML | CSS | JavaScript
+- 🌐   HTML | CSS | JavaScript| React
 
 - 🐍   Python
 
