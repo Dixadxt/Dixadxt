@@ -3,7 +3,7 @@
 <h4 align="center"> A Passionate Software Developer | Lifelong Learner </h4>
 
 
-- 🔭 I’m passionate about building scalable applications and exploring new technologies.
+🔭 I’m passionate about building scalable applications and exploring new technologies.
 
 🌱 I’m on track to learn more about Java, Web Development, and Data Structures and Algorithms. 
 
