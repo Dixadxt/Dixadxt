@@ -1,13 +1,13 @@
 #
 <h1 align="center">Hey👋,I'm Diksha!</h1>
-<h4 align="center">I'm a currently enrolled as a Student pursuing my Bachelor's degree in Information Technology.</h4>
+<h4 align="center"> A Passionate Software Developer | Lifelong Learner </h4>
 
 
-- 🔭 I’m working on my final year project.
+- 🔭 I’m passionate about building scalable applications and exploring new technologies.
 
-- 🌱 I’m on track for learning more about Java, Web Development and Data-Structures_n_Algorithms. 
+🌱 I’m on track to learn more about Java, Web Development, and Data Structures and Algorithms. 
 
-- 📫 you can shoot me an email at dikshadixit7752@gmail.com, I'll try to respond as soon as I can.
+📫 You can email me at dikshadixit7752@gmail.com. I'll try to respond as soon as I can.
 
 
 
@@ -16,13 +16,13 @@
     
 🛠 TECH STACK
                                                                                    
-- 💻   Java | C | SpringBoot | Mysql
+- 💻   Java | SpringBoot | Mysql | Hibernate
 
 - 🌐   HTML | CSS | JavaScript | React
 
-- 🐍   Python
+- 🐍   Python | C
 
-- 🔧   Visual Studio code | Intellij IDEA 
+- 🔧   Visual Studio code | Intellij IDEA | NetBeans | GitHub
 
 
                                                                                     
